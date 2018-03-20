@@ -23,7 +23,7 @@ source activate carnd-term1
 go to the project directory and run jupyter notebook with:
 
 ```
-jupyter notebook main.ipynb
+jupyter notebook P1.ipynb
 ```
 
 In the opened notebook you may run cell after cell. Once list of files in directory 'test_videos' will be shown you can choose file number and it will be processed with line tracking function. Please note, that 'test_videos' directory is not included and can be taken from [udacity/CarND-LaneLines-P1 repository](https://github.com/udacity/CarND-LaneLines-P1)
